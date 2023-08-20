@@ -104,9 +104,10 @@ form input.btn4
 
 .calculator 
 {
-    
-   
+    padding: 2rem;
+    width:289px;
     border-radius: 10px;
+    height:370px;
 }
 
 
@@ -131,7 +132,7 @@ form .display2
     display:flex;
     justify-content: flex-end;
     margin: 20px 0px;
-    max-width: 10rem;
+    max-width: 20rem;
 }
 
 form .display2 input
@@ -146,31 +147,36 @@ form input.btn1
 {
     background-color: white;
     color: black;
-    width:30px;
+    width:40px;
+    height:40px;
 }
 
 form input.btn2
 {
     background-color:slategray;
-    width:30px;
+    width:40px;
+    height:40px;
 }
 
 form input.btn
 {
-    width:80px;
+    width:90px;
     background-color: chocolate;
+    height:40px;
 }
 
 form input.btn3
 {
     background-color:chocolate;
-    width:30px;
+    width:40px;
+    height:40px;
 }
 
 
 form input.btn4
 {
     background-color: goldenrod;
-    width:30px;
+    width:40px;
+    height:40px;
 }
 }
